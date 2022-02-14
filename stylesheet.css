@@ -27,6 +27,13 @@ li {
   height:351px;
   width:624px;
 }
+.this-week {
+  color:#000000;
+  font-color:#008000;
+  padding:20px 40px;
+  width:160px;
+  height:40px;
+}
 .footer {
   background-color:#4b0082;
   height:80px;
